@@ -1,0 +1,8 @@
+Train Segment Detection Summary (Heuristic)
+===========================================
+Engines: 50
+Wagon: 3
+Brakevans: 12
+Total Frames: 74
+Total Segments Detected: 65
+Coverage Ratio: 0.88
