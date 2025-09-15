@@ -32,6 +32,7 @@ This allows approximate counting of train components without requiring labeled d
   *  Annotated frames can be saved for visualization or further analysis.
 
 **Step 5: Report Generation**
+     
     A PDF report summarizes:
   *  Count of engines, wagons, and brakevans
   *  Total segments detected
